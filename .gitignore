@@ -1,0 +1,6 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+
+# Reporting Files
+/a11y-triage/bug-reports/*.md
