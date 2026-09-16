@@ -4,3 +4,7 @@
 
 # Reporting Files
 /a11y-triage/bug-reports/*.md
+
+# My setup stuff 
+.agents
+skills-lock.json
