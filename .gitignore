@@ -6,5 +6,5 @@
 /a11y-triage/bug-reports/*.md
 
 # My setup stuff 
-.agents
+.agents/
 skills-lock.json
