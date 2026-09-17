@@ -24,9 +24,6 @@ Before everything, ensure you have the following:
 This repository contains the following:
 
 ```
-| .agents                           -- installed agents and skills for this project
-    | skills
-        | skill-creator             -- a skill that helps refine and test skills
 | a11y-triage                       -- the skill we are working on today
     | bug-reports
         acme-accessibility-bugs.csv -- a list of sample accessibility issues
@@ -35,7 +32,5 @@ This repository contains the following:
         platform-considerations.md  -- sample platform considerations
         priority-scheme.md          -- sample priority scheme
     SKILL.md                        -- the skill file we are working on
-.gitignore
 README.md
-skills-lock.json
 ```
