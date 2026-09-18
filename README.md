@@ -2,6 +2,8 @@
 
 This repository contains all the files needed to participate in the workshop.You can also find instructions on how to setup and start the project.
 
+Note: There are two versions of the skill, `a11y-triage-v1` and `a11y-triage-v2`, v2 is a corrected version of the file, if you want to experiment with one with issues, try v1.
+
 ## Getting Started
 
 Before everything, ensure you have the following:
@@ -23,7 +25,7 @@ Before everything, ensure you have the following:
 
 This repository contains the following:
 
-```
+```markdown
 | a11y-triage                       -- the skill we are working on today
     | bug-reports
         acme-accessibility-bugs.csv -- a list of sample accessibility issues
