@@ -2,6 +2,8 @@
 
 This repository contains all the files needed to participate in the workshop.You can also find instructions on how to setup and start the project.
 
+People are welcome to use this project for their work, my only ask is credit if you use the skills as a source for your own work. While it is not required, I strongly encourage you to share your derivatives openly. 
+
 Note: There are two versions of the skill, `a11y-triage-v1` and `a11y-triage-v2`, v2 is a corrected version of the file, if you want to experiment with one with issues, try v1.
 
 ## Getting Started
